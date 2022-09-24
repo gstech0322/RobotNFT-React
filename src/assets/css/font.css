@@ -1,0 +1,70 @@
+/* font size */
+.f-12 {
+    font-size: 0.75rem;
+}
+
+.f-16 {
+    font-size: 1rem;
+}
+
+.f-18 {
+    font-size: 1.125rem;
+}
+
+.f-20 {
+    font-size: 1.25rem;
+}
+
+.f-24 {
+    font-size: 1.5rem;
+}
+
+.f-32 {
+    font-size: 2rem;
+}
+
+.f-42 {
+    font-size: 3rem;
+}
+
+.f-48 {
+    font-size: 3rem;
+}
+
+.f-64 {
+    font-size: 4rem;
+}
+
+.f-72 {
+    font-size: 4.5rem;
+}
+
+/* Weight */
+.fw-bold{
+    font-weight: bold;
+}
+
+.fw-400{
+    font-weight: 400;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700{
+    font-weight: 700;
+}
+
+/* font family */
+.ff-kanit {
+    font-family: 'Kanit'
+}
+
+.lineHeight-100{
+    line-height: 100%;
+}
+
+.lineHeight-130{
+    line-height: 130%;
+}

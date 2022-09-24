@@ -1,0 +1,123 @@
+/* Padding */
+.p0 {
+    padding: 0;
+}
+.pt-32{
+    padding-top: 32px;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.pr-60 {
+    padding-right: 60px;
+}
+.pt-48 {
+    padding-top: 48px;
+}
+.pt-24 {
+    padding-top: 24px;
+}
+.pt-60 {
+    padding-top: 60px;
+}
+.pt-50 {
+    padding-top: 50px;
+}
+.pb-50 {
+    padding-bottom: 50px;
+}
+.pt-100 {
+    padding-top: 100px;
+}
+.pt-150 {
+    padding-top: 150px;
+}
+/* Margin */
+.m0 {
+    margin: 0;
+}
+
+.mr-50 {
+    margin-right: 50px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.mt-14 {
+    margin-top: 14px;
+}
+
+.mainContainer {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.mainContainer-roadmap {
+    width: 1076px;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* flex */
+.flex {
+    display: flex;
+}
+
+.justifyCenter {
+    justify-content: center;
+}
+
+.justifyBetween {
+    justify-content: space-between;
+}
+
+.justifyEnd {
+    justify-content: flex-end;
+}
+
+.itemsCenter {
+    align-items: center;
+}
+
+.gap-33 {
+    gap: 33px;
+}
+
+.gap-16 {
+    gap: 16px;
+}
+
+/* Width */
+.w-446 {
+    width: 446px;
+}
+
+/* Height */
+.h-446 {
+    height: 446px;
+}
+
+.h-71 {
+    height: 71px;
+}
+
+.h-100 {
+    height: 100px;
+}
